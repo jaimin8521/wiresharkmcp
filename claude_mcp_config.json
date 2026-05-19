@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "wireshark": {
+      "command": "C:\\Users\\jemu4\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "args": ["C:\\Users\\jemu4\\wireshark-mcp\\server.py"],
+      "env": {}
+    }
+  }
+}
